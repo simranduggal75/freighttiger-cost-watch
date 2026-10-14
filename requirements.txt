@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3        # TF-IDF fallback retriever
+sentence-transformers>=2.7   # MiniLM embeddings (primary retriever)
+faiss-cpu>=1.7           # vector index (falls back to numpy if missing)
+pytest>=7.0

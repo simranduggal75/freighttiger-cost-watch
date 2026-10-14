@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+
+# Input files supplied by FreightTiger - not redistributed in this repo
+data/*.csv
+data/*.pdf
+!data/README.md
+
+# Personal prep notes - never committed
+_private/

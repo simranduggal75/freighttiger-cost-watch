@@ -1,0 +1,25 @@
+{
+  "candidates": 22,
+  "dropped_invalid_shipments": 0,
+  "embedding_texts": 32,
+  "embedding_tokens": 867,
+  "flagged_unexplained": 15,
+  "justified": 7,
+  "llm_calls": 0,
+  "llm_cost_usd": 0.0,
+  "llm_input_tokens": 0,
+  "llm_output_tokens": 0,
+  "retrieval_backend": "embeddings:sentence-transformers/all-MiniLM-L6-v2",
+  "route_weeks": 728,
+  "settings": {
+    "BASELINE_WEEKS": 8,
+    "MARKET_MIN_ROUTES": 4,
+    "MARKET_MIN_SHARE": 0.5,
+    "MIN_PRIOR_WEEKS_TO_FLAG": 8,
+    "OWN_SPREAD_FLOOR": 2.5,
+    "PEER_SPREAD_FLOOR": 3.0,
+    "RETRIEVAL_TOP_K": 5,
+    "Z_MARKET": 1.5,
+    "Z_STRONG": 3.0
+  }
+}

@@ -1,0 +1,23 @@
+route,week_of,expected,expected_note,why
+Delhi-Jaipur,2024-11-11,flagged,,+35% spike; no note exists anywhere near this date
+Delhi-Jaipur,2024-11-18,flagged,,spike continues; still no note
+Chennai-Bangalore,2025-03-10,flagged,,still +22% but N001 ended Mar 8 and N009 says normal (wrong window trap)
+Chennai-Bangalore,2025-03-17,flagged,,N009 says back to normal; N001 expired
+Mumbai-Pune,2025-09-15,flagged,,slow creep; nearby N006 says stable demand (decoy)
+Mumbai-Pune,2025-11-17,flagged,,creep continues; no note
+Mumbai-Pune,2025-12-01,flagged,,creep continues; no note
+Mumbai-Delhi,2025-05-12,flagged,,+11.6% is about double the 5-7% diesel effect in N003 (policy case)
+Ahmedabad-Mumbai,2025-01-20,justified,N002,festival-week surcharge on this exact corridor and week
+Chennai-Bangalore,2025-02-24,justified,N001,flood disruption window Feb 24 - Mar 8 on this route
+Chennai-Bangalore,2025-03-03,justified,N001,week of Mar 3 overlaps the disruption (ends Mar 8)
+Delhi-Jaipur,2025-05-05,justified,N003,nationwide diesel rise starting this week; rise ~7%
+Mumbai-Delhi,2025-05-05,justified,N003,nationwide diesel rise starting this week; rise ~7%
+Mumbai-Pune,2025-05-05,justified,N003,nationwide diesel rise starting this week; rise ~7%
+Mumbai-Delhi,2024-07-29,normal,,N005 date: maintenance note says costs not affected - nothing to explain
+Delhi-Jaipur,2024-05-20,normal,,N007 date: improved roads - nothing unusual
+Kolkata-Bhubaneswar,2025-06-09,normal,,N008 date: no disruptions - nothing unusual
+Delhi-Chennai,2024-02-05,normal,,3-shipment noise spike in week 6; baseline too thin to judge
+Ahmedabad-Mumbai,2024-04-22,normal,,small gap to peers - within its usual range
+Ahmedabad-Mumbai,2025-01-27,normal,,week after the festival surcharge; back to normal
+Kolkata-Bhubaneswar,2024-06-17,normal,,ordinary week
+Chennai-Bangalore,2025-04-07,normal,,after the flood episode; back to ~2.7

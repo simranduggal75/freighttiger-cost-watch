@@ -1,0 +1,11 @@
+note_id,note_date,applies_to,effect,window_start,window_end,magnitude_pct,window_basis
+N001,2025-02-24,Chennai-Bangalore,increase,2025-02-24,2025-03-08,,explicit date range in the note
+N002,2025-01-20,Ahmedabad-Mumbai,increase,2025-01-20,2025-01-26,,the note's own week (no explicit range)
+N003,2025-05-05,All Routes,increase,2025-05-05,open-ended,"(5.0, 7.0)",'starting this week' (open-ended change)
+N004,2024-03-11,All Routes,none,2024-03-11,2024-03-17,,the note's own week (no explicit range)
+N005,2024-07-29,Mumbai-Delhi,none,2024-07-29,2024-08-04,,the note's own week (no explicit range)
+N006,2025-09-22,All Routes,none,2025-09-22,2025-09-28,,the note's own week (no explicit range)
+N007,2024-05-20,Delhi-Jaipur,decrease,2024-05-20,2024-05-26,,the note's own week (no explicit range)
+N008,2025-06-09,Kolkata-Bhubaneswar,none,2025-06-09,2025-06-15,,the note's own week (no explicit range)
+N009,2025-03-17,Chennai-Bangalore,none,2025-03-17,2025-03-23,,the note's own week (no explicit range)
+N010,2025-10-27,All Routes,none,2025-10-27,2025-11-02,,the note's own week (no explicit range)
